@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "direct-worldcat.gl.joinmc.link",
-          "assigned_srv": "direct-worldcat.gl.joinmc.link",
+          "assigned_domain": "tell-theology.gl.joinmc.link",
+          "assigned_srv": "tell-theology.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "9a71d7eb-ab1d-4821-a25f-b100ffced2d3",
+          "id": "9f71ed17-ae0d-4140-82ae-d1983d1585d5",
           "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 59113,
-          "port_start": 59112,
+          "port_end": 61984,
+          "port_start": 61983,
           "region": "global",
           "static_ip4": "147.185.221.21",
           "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-08T21:06:46.889014Z",
+      "created_at": "2024-08-10T19:15:35.202853Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "18c5b94d-a9e6-4de2-9fb4-fdab6114f5d0",
+      "id": "63763631-063d-4f3a-a0b3-4a334f8926e8",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "e196a903-c6da-4d7a-b7d6-27898fe27e0e",
-          "agent_name": "Mobyius",
+          "agent_id": "3051fb3d-6d78-4cf3-9e98-36fc5d50e289",
+          "agent_name": "from-key-3ff4",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
